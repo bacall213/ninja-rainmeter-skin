@@ -1,5 +1,5 @@
-ninja-rainmeter-skin
-====================
+Ninja Rainstats
+===============
 
 Rainmeter skin that brings your Ninja Block vitals to your Windows desktop
 
